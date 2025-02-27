@@ -23,23 +23,21 @@ This section categorizes customer behaviors based on spending patterns, demograp
 - Credit score segmentation to identify and address customer financial profiles.
 
 
-## How to Use the Dashboard
 
-1. Clone the repository:
+## How to Use
+
+1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/Lavanyarai/OnyxDataChallenge_AuroraBank_Analysis.git
+   git clone https://github.com/Lavanyarai/OnyxDataChallenge_AuroraBank_Analysis
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd OnyxDataChallenge_AuroraBank_Analysis
-   ```
+2. **Open the Power BI file** (`OnyxDataChallenge.pbix`) with **Power BI Desktop**.
 
-3. Open the dashboard in your preferred data visualization tool.
+3. **Explore the dashboard** to analyze various visualizations and gain insights into transaction patterns and risk factors.
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+4. **Download the Full Report PDF** [here](https://github.com/Lavanyarai/OnyxDataChallenge_AuroraBank_Analysis/blob/main/Report.pdf) 
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Special thanks to **ZoomCharts** for providing a subscription to paid charts and **ONYX DATA** for offering this innovative and challenging opportunity to shape the future of data analysis.
+
+Feel free to contribute and enhance this analytics dashboard for better insights!
 
