@@ -38,12 +38,12 @@ This dashboard provides comprehensive insights into transaction and risk analysi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/transaction-risk-analysis.git
+   git clone https://github.com/Lavanyarai/OnyxDataChallenge_AuroraBank_Analysis.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd transaction-risk-analysis
+   cd OnyxDataChallenge_AuroraBank_Analysis
    ```
 
 3. Open the dashboard in your preferred data visualization tool.
